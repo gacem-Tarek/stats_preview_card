@@ -24,7 +24,7 @@ body .container {
 .preview-card {
   color: white;
   width: 75%;
-  height: 50%;
+  height: 55%;
   display: flex;
   flex-wrap: nowrap;
 }
@@ -39,7 +39,7 @@ body .container {
   text-align: start;
 }
 .preview-card .left-col h1 {
-  font-size: 2.5em;
+  font-size: 2.2em;
   margin-bottom: 1em;
 }
 .preview-card .left-col h1 span {
@@ -109,7 +109,7 @@ body .container {
   }
   .preview-card .left-col p {
     font-size: 0.9em;
-    margin-bottom: 3em;
+    margin-bottom: 2em;
   }
   .preview-card .left-col ul {
     padding: 0;
